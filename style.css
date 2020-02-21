@@ -1,0 +1,7 @@
+.vp-section {
+  width: 100vw;
+  height: 90vh;
+  background-image: url(coffee.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
